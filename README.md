@@ -6,10 +6,18 @@ The repository contains some code and a dataset of 100,000 English-French senten
 
 Baseline for 1000 sentence pairs with Dice coefficient:
 
-Alignment Error Rate (AER) = 0.680
+Precision = 0.247944
 
+Recall = 0.653846
+
+Alignment Error Rate (AER) = 0.680563
 
 
 Improvement with IBM Model 1:
 
-AER = 0.371
+Precision = 0.581137
+
+Recall = 0.736686
+
+Alignment Error Rate (AER) = 0.369216
+
